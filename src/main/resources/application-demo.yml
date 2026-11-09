@@ -1,0 +1,9 @@
+harbor:
+  jwt:
+    secret: demo-secret-demo-secret-demo-secret-0123
+  admin:
+    key: demo-admin
+  dev-tokens:
+    enabled: true
+  demo:
+    seed: true
