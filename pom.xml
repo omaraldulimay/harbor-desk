@@ -18,7 +18,7 @@
 
   <properties>
     <java.version>21</java.version>
-    <archunit.version>1.4.1</archunit.version>
+    <archunit.version>1.5.1</archunit.version>
     <!-- proof tests (tag "proof") only run through make proof -->
     <harbor.groups></harbor.groups>
     <harbor.excluded.groups>proof</harbor.excluded.groups>
